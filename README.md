@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+📫 How to reach me: jowambui123@gmail.com
+
+⚡ Fun fact about me: I am a blogger😁
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanWaweru&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanWaweru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JoanWaweru/JoanWaweru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: jowambui123@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
