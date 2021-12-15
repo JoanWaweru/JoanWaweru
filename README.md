@@ -3,6 +3,7 @@
 📫 How to reach me: jowambui123@gmail.com
 
 🌱 I’m currently learning Python in Artificial Intelligence and game development using OpenGL.
+
 ⚡ Fun fact: I am a Mental Health enthusiast and blogger😁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanWaweru&show_icons=true&theme=radical)
