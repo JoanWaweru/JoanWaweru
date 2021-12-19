@@ -2,6 +2,8 @@
 
 📫 How to reach me: jowambui123@gmail.com
 
+🔭 I’m currently studying Bsc. of Science in Informatics and Computer Science.
+
 🌱 I’m currently learning Python in Artificial Intelligence and game development using OpenGL.
 
 ⚡ Fun fact: I am a Mental Health enthusiast and blogger😁
