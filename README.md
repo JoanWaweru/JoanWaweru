@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joan Waweru</h1>
-<h3 align="center">A Computer Science Student</h3>
+<h3 align="center">An Informatics and Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwaweru&label=Profile%20views&color=0e75b6&style=flat" alt="joanwaweru" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jowambui123@gmail.com**
 
-- ⚡ Fun fact **I'm a Mental Health and blogger.**
+- ⚡ Fun fact **I'm a Mental Health enthusiast and blogger.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
