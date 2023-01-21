@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/joanwaweru23" target="blank"><img src="https://img.shields.io/twitter/follow/joanwaweru23?logo=twitter&style=for-the-badge" alt="joanwaweru23" /></a> </p>
 
-- 🌱 I’m currently learning **Game development using OpenGL, React, Python in Artificial Intelligence**
+- 🌱 I’m currently learning **Angular2 & SpringBoot**
 
 - 📫 How to reach me **jowambui123@gmail.com**
 
