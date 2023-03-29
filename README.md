@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F724A5&lines=Hey+everyone!!;My+name+is+Joan+Waweru%F0%9F%98%81;A+Computer+Science+Student;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
-<a href="https://github.com/joanwaweru/github-readme-activity-graph"><img alt="Joan Waweru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joanwaweru&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<!-- <a href="https://github.com/joanwaweru/github-readme-activity-graph"><img alt="Joan Waweru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joanwaweru&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a> -->
 
 <h1 align="center">Hi 👋, I'm Joan Waweru</h1>
 <h3 align="center">An Informatics and Computer Science Student</h3>
