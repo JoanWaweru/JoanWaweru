@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/joanwaweru23" target="blank"><img src="https://img.shields.io/twitter/follow/joanwaweru23?logo=twitter&style=for-the-badge" alt="joanwaweru23" /></a> </p>
 
-- 🌱 I’m currently learning **Angular2 & SpringBoot**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **jowambui123@gmail.com**
 
