@@ -3,7 +3,7 @@
 <!-- <a href="https://github.com/joanwaweru/github-readme-activity-graph"><img alt="Joan Waweru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joanwaweru&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a> -->
 
 <h1 align="center">Hi 👋, I'm Joan Waweru</h1>
-<h3 align="center">A Software Developer and Aspiring Data Analyst</h3>
+<h3 align="center">Data Scientist: Talk Data to Me ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwaweru&label=Profile%20views&color=0e75b6&style=flat" alt="joanwaweru" /> </p>
 
