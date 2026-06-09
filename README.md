@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanwaweru&label=Profile%20views&color=0e75b6&style=flat" alt="joanwaweru" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joanwaweru" alt="joanwaweru" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joanwaweru" alt="joanwaweru" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/joanwaweru23" target="blank"><img src="https://img.shields.io/twitter/follow/joanwaweru23?logo=twitter&style=for-the-badge" alt="joanwaweru23" /></a> </p>
 
