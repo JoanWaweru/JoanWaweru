@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **jowambui123@gmail.com**
+- 📫 How to reach me **joanwaweru.tech@gmail.com**
 
-- ⚡ Fun fact **I'm a Mental Health enthusiast and blogger.**
+- ⚡ Fun fact **I'm a Mental Health enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
